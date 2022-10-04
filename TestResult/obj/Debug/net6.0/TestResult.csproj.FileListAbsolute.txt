@@ -1,0 +1,15 @@
+D:\project\Final\Final-2\TestResult\bin\Debug\net6.0\TestResult.exe
+D:\project\Final\Final-2\TestResult\bin\Debug\net6.0\TestResult.deps.json
+D:\project\Final\Final-2\TestResult\bin\Debug\net6.0\TestResult.runtimeconfig.json
+D:\project\Final\Final-2\TestResult\bin\Debug\net6.0\TestResult.dll
+D:\project\Final\Final-2\TestResult\bin\Debug\net6.0\TestResult.pdb
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.csproj.AssemblyReference.cache
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.AssemblyInfoInputs.cache
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.AssemblyInfo.cs
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.csproj.CoreCompileInputs.cache
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.dll
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\refint\TestResult.dll
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.pdb
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\TestResult.genruntimeconfig.cache
+D:\project\Final\Final-2\TestResult\obj\Debug\net6.0\ref\TestResult.dll
